@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .login-box {
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #343a40;
+  }
+  
+  button {
+    font-size: 16px;
+  }
+  
+  input::placeholder {
+    color: #6c757d;
+  }
+  
+  .alert {
+    margin-top: 10px;
+  }
+  
