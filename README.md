@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Yarn-based React e-commerce application that allows users to browse products, search for items, and add them to the cart. The project uses React for the frontend, Axios for API calls, and Reactstrap for styling UI components. The application provides a fully functional shopping experience with a responsive design.
+This project is a Yarn-based **React e-commerce application** built with **TypeScript**. It allows users to browse products, search for items, and add them to the cart. The project uses **React** for the frontend, **Axios** for API calls, **Reactstrap** for styling UI components, and **CSS** for custom styling. The application offers a fully functional shopping experience with a responsive design optimized for both mobile and desktop devices.
 
 ## Features
 
@@ -15,6 +15,7 @@ This project is a Yarn-based React e-commerce application that allows users to b
 
 - **React.js**: JavaScript library for building user interfaces.
 - **Yarn**: Dependency management tool used for package management.
+- **TypeScript**: A superset of JavaScript that adds static types to the codebase.
 - **Reactstrap**: Library for React components built with Bootstrap.
 - **Axios**: Promise-based HTTP client for making API calls to fetch product data.
 - **CSS**: Custom styling for the application.
